@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd73aad2adaec5e6",
+  "active": "8993333ec54fec8b",
   "lastOpenFiles": [
+    "pwad 272/test note for github.md",
     "Comp 421/Feb 7 - Triggers I think.md",
     "Comp 421/Feb 9 - more triggers maybe.md",
     "Comp 421/JAN 19 - more relations in SQL.md",
@@ -156,7 +157,6 @@
     "pwad 272/FEB 8 - humanitarian intervention.md",
     "Comp 421/Feb 7.md",
     "Comp 421/Jan 24 - something.md",
-    "Web programming/Jan 26 - curl and APIs.md",
-    "Web programming/Jan 17 - Node.js.md"
+    "Web programming/Jan 26 - curl and APIs.md"
   ]
 }
