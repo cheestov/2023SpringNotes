@@ -11,12 +11,8 @@
             "id": "dcdea92e2088da94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 272/test note for github.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 272/test note for github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 272/test note for github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pwad 272/test note for github.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcdea92e2088da94",
+  "active": "dd73aad2adaec5e6",
   "lastOpenFiles": [
     "Comp 421/Feb 7 - Triggers I think.md",
     "Comp 421/Feb 9 - more triggers maybe.md",
