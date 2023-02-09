@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "36e54cd659536ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa535dcf6ccd2976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce6f9b735824c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jan 26 - Relational algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d30a66a8edf6eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAN 19 - more relations in SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d826dd0222c17b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32f6848347094d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24a32b9cfd27986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34d78d56070077c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa2e9af3a4bac0b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aba3c63a250379db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c564ab534b6d485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cbfea34fc9be1f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAN 19 - more relations in SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02d81f31ff099d2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JAN 19 - more relations in SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a9161bdaa74308e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75996640c9027bc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAN 19 - more relations in SQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d30a66a8edf6eba",
+  "lastOpenFiles": [
+    "Jan 17 - entity-relationship model.md",
+    "Jan 12 - introduction (chapter 1).md",
+    "JAN 31 - DIVISION AND MORE.md",
+    "Jan 26 - Relational algebra.md",
+    "Jan 24 - something.md",
+    "JAN 19 - more relations in SQL.md",
+    "Untitled 1.md",
+    "Jan 10 - Syllabus day.md"
+  ]
+}

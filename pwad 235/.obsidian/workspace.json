@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "dd00c6b873cf023e",
+    "type": "split",
+    "children": [
+      {
+        "id": "186fe7a0134a34c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bc426ec82a747c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jan 10  - syllabus day.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd7cd5a65b95ea7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b12f274541e7664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5974589b7e8bc5dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ae9d2b6016c0c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecb61ef56a3142ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3eb141cb4e50f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d10f6f41c1bed431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab36d91fe94fe05b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jan 10  - syllabus day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dff6b75860ca8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jan 10  - syllabus day.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65cba6c2aa69d5dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2498ca320ff0e820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jan 10  - syllabus day.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90bc426ec82a747c",
+  "lastOpenFiles": []
+}
