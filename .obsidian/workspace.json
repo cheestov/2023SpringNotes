@@ -11,8 +11,12 @@
             "id": "dcdea92e2088da94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pwad 235/Feb 9 - contemporary cinema.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -148,6 +152,7 @@
   },
   "active": "8993333ec54fec8b",
   "lastOpenFiles": [
+    "pwad 235/Feb 9 - contemporary cinema.md",
     "pwad 272/test note for github.md",
     "Comp 421/Feb 7 - Triggers I think.md",
     "Comp 421/Feb 9 - more triggers maybe.md",
@@ -156,7 +161,6 @@
     "Comp 421/Jan 26 - Relational algebra.md",
     "pwad 272/FEB 8 - humanitarian intervention.md",
     "Comp 421/Feb 7.md",
-    "Comp 421/Jan 24 - something.md",
-    "Web programming/Jan 26 - curl and APIs.md"
+    "Comp 421/Jan 24 - something.md"
   ]
 }
