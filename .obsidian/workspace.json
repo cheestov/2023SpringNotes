@@ -43,9 +43,11 @@
             "id": "9966d64c228ce6a1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pwad 272/Feb 6 - something _230206_141401.jpg"
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 272/Feb 6 - something _230206_141401.jpg",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 272/Feb 6 - something _230206_141401.jpg",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwad 272/Feb 6 - something _230206_141401.jpg"
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md"
               }
             }
           },
@@ -188,12 +190,12 @@
   },
   "active": "9966d64c228ce6a1",
   "lastOpenFiles": [
+    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
+    "pwad 272/Feb 6 - something _230206_141401.jpg",
     "Midterm 1 study.md",
     "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
     "conflict-files-obsidian-git.md",
-    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
     "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
-    "pwad 272/Feb 6 - something _230206_141401.jpg",
     "pwad 235/Feb 9 - contemporary cinema.md",
     "pwad 272/test note for github.md",
     "Comp 421/Feb 7 - Triggers I think.md",
