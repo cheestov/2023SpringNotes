@@ -65,9 +65,11 @@ Walzer's humanitarian principles :
 
 Criteria by Someone else: 
 1. The burden of proof is on the intervener
-2. Last resort criterion 
-3. A right-intention intervention 
-4. should have a legitimate authority ready for when war is over
+2. intervention must outwigh harm casued by it
+3. Last resort criterion 
+4. criterion of feasability, good chance of working
+5. A right-intention intervention 
+6. should have a legitimate authority ready for when war is over
 
 
 # Recitation Reading:
