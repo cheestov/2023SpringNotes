@@ -1,0 +1,23 @@
+-Return of the repressed through dreams
+- showing all of the military people after in interverws show how their lives contine calmly after committing Massacres which is in a sense a part of the horror
+- Shows Isrealis retreating and running away from battle , we have not Seen anything like this in nationalist films
+- collateral damage montage with music of anti- war kind
+- the music about violence is interesting. is it anti-war or pro-war ?
+-Is horse death worse than arabs dying? What about dog death?
+- I understand it's about personal experiences but this can send some weird messages
+- laughing about car bombs, they are traumatized by violence but still laugh about it
+- Interesting to show this army man's humor in a movie about Ptsd
+- waltz is the music , thats why they keep showing violence and soldiers with the walz music
+- does this glorify the IDF Soldiers?
+- compare this Massacre with the holocaust. Something about zionism perhaps?
+- It was Bashir 's people who were Committing the Massacre as revenge for bashir's assassination
+- does this show the IDF as powerless in the massacre? Couldn't they have done something ?
+- The IDF aided in committing the massacre. Firing flairs
+- were they taking on the roles of Nazis? what does the movie say? what do they want it to say?
+- Switch to real film to show the effects of the Massacre
+- they don't translate the arabic !!!
+-perhaps They are showing the Palestinians as a people who need to be protected by the great civilized isreal
+- Bashir is part of philangist party which comes from european Fascism
+
+- shows So little of the actual perpetrators, this makes it seem slike arabs will murder arabs but the isealis should know better
+- look up shooting and crying
