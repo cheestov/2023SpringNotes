@@ -11,28 +11,14 @@
             "id": "9966d64c228ce6a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a72dfe589901b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,15 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a72dfe589901b00",
+  "active": "9966d64c228ce6a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "pwad 272/FEB 8 - humanitarian intervention.md",
     "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
     "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
     "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
     "Midterm 1 study.md",
     "pwad 272/Feb 6 - something _230206_141401.jpg",
-    "conflict-files-obsidian-git.md",
     "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
     "pwad 235/Feb 9 - contemporary cinema.md",
     "pwad 272/test note for github.md"
