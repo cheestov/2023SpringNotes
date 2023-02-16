@@ -11,14 +11,28 @@
             "id": "9966d64c228ce6a1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Feb 16 - babi yar.md",
-                "staged": false
+                "file": "pwad 235/Waltz with Bashir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df9ef3baaacd7861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comp 421/Feb 16 - Joins and Nulls.md"
+              }
             }
           },
           {
@@ -149,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9966d64c228ce6a1",
+  "active": "df9ef3baaacd7861",
   "lastOpenFiles": [
+    "Comp 421/JAN 31 - DIVISION AND MORE.md",
+    "Comp 421/Jan 26 - Relational algebra.md",
+    "Comp 421/JAN 19 - more relations in SQL.md",
+    "Comp 421/Jan 17 - entity-relationship model.md",
+    "Comp 421/Feb 7 - Triggers I think.md",
+    "Comp 421/Feb 9 - more triggers maybe.md",
+    "Comp 421/Feb 16 - Joins and Nulls.md",
+    "pwad 235/Waltz with Bashir.md",
     "pwad 465/Feb 16 - babi yar.md",
-    "conflict-files-obsidian-git.md",
-    "pwad 272/FEB 8 - humanitarian intervention.md",
-    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
-    "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
-    "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
-    "Midterm 1 study.md",
-    "pwad 272/Feb 6 - something _230206_141401.jpg",
-    "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
-    "pwad 235/Feb 9 - contemporary cinema.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
