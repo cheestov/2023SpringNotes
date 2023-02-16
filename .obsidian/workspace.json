@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
+                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
+                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp 421/Feb 16 - Joins and Nulls.md",
+                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp 421/Feb 16 - Joins and Nulls.md"
+                "file": "pwad 235/Feb 16 - fictitious Marriage.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "df9ef3baaacd7861",
   "lastOpenFiles": [
+    "pwad 235/Feb 9 - contemporary cinema.md",
+    "pwad 235/Feb 16 - fictitious Marriage.md",
+    "pwad 235/Waltz with Bashir.md",
+    "Comp 421/Feb 16 - Joins and Nulls.md",
     "Comp 421/JAN 31 - DIVISION AND MORE.md",
     "Comp 421/Jan 26 - Relational algebra.md",
     "Comp 421/JAN 19 - more relations in SQL.md",
     "Comp 421/Jan 17 - entity-relationship model.md",
     "Comp 421/Feb 7 - Triggers I think.md",
-    "Comp 421/Feb 9 - more triggers maybe.md",
-    "Comp 421/Feb 16 - Joins and Nulls.md",
-    "pwad 235/Waltz with Bashir.md",
-    "pwad 465/Feb 16 - babi yar.md",
-    "conflict-files-obsidian-git.md"
+    "Comp 421/Feb 9 - more triggers maybe.md"
   ]
 }
