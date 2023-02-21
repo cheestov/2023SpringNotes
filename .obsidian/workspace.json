@@ -23,12 +23,28 @@
             "id": "df9ef3baaacd7861",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Feb 21 - Waltz with Bashir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f83cb1b9e5086fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb 21 - Waltz with Bashir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Feb 21 - Waltz with Bashir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Feb 21 - Waltz with Bashir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Feb 21 - Waltz with Bashir.md"
+              }
             }
           },
           {
@@ -159,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd73aad2adaec5e6",
+  "active": "6f83cb1b9e5086fe",
   "lastOpenFiles": [
-    "2023-02-21.md",
+    "Feb 20 - Jus ad Vim.md",
+    "Untitled.md",
+    "Feb 21 - Waltz with Bashir.md",
     "Feb 21 - waltz with Bashir and victimhood_230221_134520.pdf",
     "Comp 421/JAN 19 - more relations in SQL.md",
     "Comp 421/JAN 31 - DIVISION AND MORE.md",
     "Comp 421/Jan 26 - Relational algebra.md",
     "Comp 421/Jan 24 - something.md",
     "Comp 421/Jan 17 - entity-relationship model.md",
-    "Comp 421/Feb 16 - Joins and Nulls.md",
-    "Comp 421/Feb 7 - Triggers I think.md",
-    "Comp 421/Feb 9 - more triggers maybe.md"
+    "Comp 421/Feb 16 - Joins and Nulls.md"
   ]
 }
