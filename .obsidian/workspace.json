@@ -23,12 +23,8 @@
             "id": "df9ef3baaacd7861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 235/Feb 16 - fictitious Marriage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pwad 235/Feb 16 - fictitious Marriage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,16 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df9ef3baaacd7861",
+  "active": "dd73aad2adaec5e6",
   "lastOpenFiles": [
-    "pwad 235/Feb 9 - contemporary cinema.md",
-    "pwad 235/Feb 16 - fictitious Marriage.md",
-    "pwad 235/Waltz with Bashir.md",
-    "Comp 421/Feb 16 - Joins and Nulls.md",
+    "2023-02-21.md",
+    "Feb 21 - waltz with Bashir and victimhood_230221_134520.pdf",
+    "Comp 421/JAN 19 - more relations in SQL.md",
     "Comp 421/JAN 31 - DIVISION AND MORE.md",
     "Comp 421/Jan 26 - Relational algebra.md",
-    "Comp 421/JAN 19 - more relations in SQL.md",
+    "Comp 421/Jan 24 - something.md",
     "Comp 421/Jan 17 - entity-relationship model.md",
+    "Comp 421/Feb 16 - Joins and Nulls.md",
     "Comp 421/Feb 7 - Triggers I think.md",
     "Comp 421/Feb 9 - more triggers maybe.md"
   ]
