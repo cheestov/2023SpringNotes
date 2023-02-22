@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwad 235/Feb 21 - Waltz with Bashir.md",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 235/Feb 21 - Waltz with Bashir.md",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 235/Feb 21 - Waltz with Bashir.md",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwad 235/Feb 21 - Waltz with Bashir.md"
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "6f83cb1b9e5086fe",
   "lastOpenFiles": [
-    "pwad 272/Feb 20 - Jus ad Vim.md",
-    "Untitled.md",
+    "pwad 272/Feb 6 - something _230206_141401.jpg",
+    "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
+    "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
+    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
+    "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
+    "pwad 272/Feb 22 - prop.md",
+    "pwad 272/FEB 8 - humanitarian intervention.md",
     "pwad 235/Feb 21 - Waltz with Bashir.md",
-    "Feb 21 - waltz with Bashir and victimhood_230221_134520.pdf",
-    "Comp 421/JAN 19 - more relations in SQL.md",
-    "Comp 421/JAN 31 - DIVISION AND MORE.md",
-    "Comp 421/Jan 26 - Relational algebra.md",
-    "Comp 421/Jan 24 - something.md",
-    "Comp 421/Jan 17 - entity-relationship model.md",
-    "Comp 421/Feb 16 - Joins and Nulls.md"
+    "pwad 272/Feb 20 - Jus ad Vim.md",
+    "Untitled.md"
   ]
 }
