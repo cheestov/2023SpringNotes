@@ -61,3 +61,7 @@ Proportionality
 
 - there is war proportionality and in battle proportionality
 	- train Soldiers to make vitreous decisions
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
