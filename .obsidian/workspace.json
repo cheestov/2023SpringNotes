@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9966d64c228ce6a1",
+            "id": "0b67c3ea03d54794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwad 235/Waltz with Bashir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9ef3baaacd7861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 235/Feb 21 - Waltz with Bashir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f83cb1b9e5086fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
+                "file": "pwad 272/Feb 20 - Jus ad Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
+                "file": "pwad 272/Feb 20 - Jus ad Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
+                "file": "pwad 272/Feb 20 - Jus ad Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwad 272/FEB 8 - humanitarian intervention.md"
+                "file": "pwad 272/Feb 20 - Jus ad Vim.md"
               }
             }
           },
@@ -179,14 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f83cb1b9e5086fe",
+  "active": "0b67c3ea03d54794",
   "lastOpenFiles": [
+    "pwad 272/Feb 22 - prop.md",
+    "Comp 421/Raghu Ramakrishnan, Johannes Gehrke - Database Management Systems-McGraw-Hill Science_Engineering_Math (2003).pdf",
     "pwad 272/Feb 6 - something _230206_141401.jpg",
     "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
     "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
     "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
     "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
-    "pwad 272/Feb 22 - prop.md",
     "pwad 272/FEB 8 - humanitarian intervention.md",
     "pwad 235/Feb 21 - Waltz with Bashir.md",
     "pwad 272/Feb 20 - Jus ad Vim.md",

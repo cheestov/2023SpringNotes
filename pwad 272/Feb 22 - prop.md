@@ -1,3 +1,32 @@
+# ChatGPT Summary:
+### Proportionality
+
+-   General formula (fotion?): maximize military benefits and minimize evil
+-   Destruction caused must not be out of proportion to the object in war
+-   Ad bellum proportionality condition: destructiveness of war must not be out of proportion to the relevant good of the war
+-   In bello proportionality condition: civilian casualties must not be more excessive than military advantage gained from the act
+
+### Criteria and Responsibility
+
+-   Determine relevant goods and evils in favor of the war
+-   Weigh goods and evils against each other
+
+### Soldiers vs Civilians
+
+-   Soldiers are not worth a lot in these considerations
+-   Civilian casualties must not be more excessive than military advantage gained
+-   Soldiers are legit targets, while civilians are not
+-   National partiality exists, but commander should still protect enemy civilians
+
+### Other Points
+
+-   Proportionality allows for more extreme measures against genocidal enemies
+-   Consider present and future threats, not just damages already done  
+-   War proportionality and in-battle proportionality exist
+-   Train soldiers to make virtuous decisions
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
 # Lecture:
 
 Proportionality

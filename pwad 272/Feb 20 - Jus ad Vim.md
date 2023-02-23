@@ -1,3 +1,30 @@
+# ChatGPT Summary:
+### Jus ad Vim:
+
+-   Moral language used for modern forms of war
+-   Modern warfare less about state-state combat
+-   Increase in non-state actor enemies
+-   Geographic boundaries less important
+-   Increased use of drones and cyber warfare
+-   Force protection allows for less friendly casualties and less economic burden
+
+### Consequence:
+
+-   Increases support for non-state actor
+-   Brings international or national criticism to the state
+
+### American View:
+
+-   Dick Cheney advocates for decisiveness with minimal casualties in regional conflicts
+-   No longer see conflicts as threatening the survival of the state
+
+### Principles of Jus ad Vim:
+
+1.  Cannot start a war
+2.  Must be for the right reason
+3.  Needs to be addressing a specific target or threat
+4.  More permissible than Jus ad bellum
+
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 # Lecture:
