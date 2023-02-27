@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027cb56cde9d2aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5fd2e229a2f98ec9",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 272/Feb 22 - prop.md",
+                "file": "To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 272/Feb 22 - prop.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwad 272/Feb 22 - prop.md"
+                "file": "To-Do.md"
               }
             }
           },
@@ -154,18 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b67c3ea03d54794",
+  "active": "027cb56cde9d2aa7",
   "lastOpenFiles": [
+    "pwad 272/Feb 22 - prop.md",
+    "To-Do.md",
     "Comp 421/Raghu Ramakrishnan, Johannes Gehrke - Database Management Systems-McGraw-Hill Science_Engineering_Math (2003).pdf",
     "pwad 272/Feb 20 - Jus ad Vim.md",
-    "pwad 272/Feb 22 - prop.md",
     "pwad 272/Feb 6 - something _230206_141401.jpg",
     "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
     "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
     "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
     "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
     "pwad 272/FEB 8 - humanitarian intervention.md",
-    "pwad 235/Feb 21 - Waltz with Bashir.md",
-    "Untitled.md"
+    "pwad 235/Feb 21 - Waltz with Bashir.md"
   ]
 }
