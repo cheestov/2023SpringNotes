@@ -1,6 +1,6 @@
 Sunday 2/26:
-- [ ] Do laundry⏫ 
-- [ ] Do Dishes⏫ 
+- [x] Do laundry⏫ 
+- [x] Do Dishes⏫ 
 - [ ] Try to finish coding project as much as you can⏫ 
 - [ ] clean room⏫ 
 - [ ] Pwad 465: impression on put in speech and something else 
