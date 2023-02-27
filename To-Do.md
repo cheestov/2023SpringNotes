@@ -3,6 +3,7 @@ Sunday 2/26:
 - [ ] Do Dishes⏫ 
 - [ ] Try to finish coding project as much as you can⏫ 
 - [ ] clean room⏫ 
+- [ ] Pwad 465: impression on put in speech and something else 
 Monday 2/27:
  - [ ] Asia 235: Read "negotiating judaism" chyutin, in israeli cinema pp201-212⏫ 
  - [ ] Asia 235: watch Myfather. My lord⏫ 
