@@ -13,3 +13,7 @@
 - gentiles are equivalent to animals in the eyes of god, their agency is lesser than the jews. 
 - its kind of fun the comparison between ozu. these serious family centered conversations while doing trips and such
 - follow the tora and talmud no matter what, even tho the laws are so outdated and effing strange you just much do it. 
+- stop swim for afternoon prayer, it is neverending how religion is deeply involved in real life and gets in the way of everything
+- DEATH OF FISH DUE TO PRAYER!!! IT HAS TO MEAN SOMETHING CAT
+- NO OMG THE RELIGION IS DEATH OF SON OHJ MY GOD
+	- THEY NEGLECTED SON FOR PYRAYER AND NOW SON DEAD OH NO
