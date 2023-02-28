@@ -11,3 +11,5 @@
 # Movie: my father, my lord:
 - intense religion, even in a globalized israel. Cant appreciate other cultures because they practice idolatry. 
 - gentiles are equivalent to animals in the eyes of god, their agency is lesser than the jews. 
+- its kind of fun the comparison between ozu. these serious family centered conversations while doing trips and such
+- follow the tora and talmud no matter what, even tho the laws are so outdated and effing strange you just much do it. 
