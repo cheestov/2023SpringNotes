@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cb10b98c14d12d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd73aad2adaec5e6",
+  "active": "9cb10b98c14d12d0",
   "lastOpenFiles": [
-    "pwad 272/Feb 22 - prop.md",
+    "conflict-files-obsidian-git.md",
     "To-Do.md",
+    "pwad 235/Feb 28 - my father my lord.md",
+    "Comp 421/Feb 23 - Application programming.md",
+    "pwad 272/Feb 22 - prop.md",
     "Comp 421/Raghu Ramakrishnan, Johannes Gehrke - Database Management Systems-McGraw-Hill Science_Engineering_Math (2003).pdf",
     "pwad 272/Feb 20 - Jus ad Vim.md",
     "pwad 272/Feb 6 - something _230206_141401.jpg",

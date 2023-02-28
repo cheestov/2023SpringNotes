@@ -3,13 +3,13 @@ Sunday 2/26:
 - [x] Do Dishes ⏫ ✅ 2023-02-27
 - [x] Try to finish coding project as much as you can ⏫ ✅ 2023-02-27
 - [ ] clean room⏫ 
-- [ ] Pwad 465: impression on put in speech and something else 
+- [x] Pwad 465: impression on put in speech and something else 
 Monday 2/27:
- - [ ] Asia 235: Read "negotiating judaism" chyutin, in israeli cinema pp201-212⏫ 
- - [ ] Asia 235: watch Myfather. My lord⏫ 
+ - [x] Asia 235: Read "negotiating judaism" chyutin, in israeli cinema pp201-212⏫ 
+ - [x] Asia 235: watch Myfather. My lord⏫ 
  - [ ] Pwad 272: Start paper, research and make thesis⏫  
  - [ ] Web programming: FINISH CODING PROJECT
- - [ ] Files&Databases: watch 2-23-2023 zoom recording
+ - [x] Files&Databases: watch 2-23-2023 zoom recording
  - [ ] Files&databasesL read chapter 8 an do chapter 8 quiz
 Tuesday 2/28:
 - [ ] Pwad 272: write as much of paper as humanly possible⏫ 
