@@ -9,7 +9,7 @@ Monday 2/27:
  - [x] Asia 235: watch Myfather. My lord⏫ 
  - [ ] Pwad 272: Start paper, research and make thesis⏫  
  - [ ] Web programming: FINISH CODING PROJECT
- - [ ] Files&Databases: watch 2-23-2023 zoom recording
+ - [x] Files&Databases: watch 2-23-2023 zoom recording
  - [ ] Files&databasesL read chapter 8 an do chapter 8 quiz
 Tuesday 2/28:
 - [ ] Pwad 272: write as much of paper as humanly possible⏫ 
