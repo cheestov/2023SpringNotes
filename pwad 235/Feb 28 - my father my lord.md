@@ -9,3 +9,5 @@
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 # Movie: my father, my lord:
+- intense religion, even in a globalized israel. Cant appreciate other cultures because they practice idolatry. 
+- gentiles are equivalent to animals in the eyes of god, their agency is lesser than the jews. 
