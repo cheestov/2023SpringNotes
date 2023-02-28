@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b67c3ea03d54794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 272/Feb 22 - prop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "027cb56cde9d2aa7",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5fd2e229a2f98ec9",
@@ -168,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "027cb56cde9d2aa7",
+  "active": "dd73aad2adaec5e6",
   "lastOpenFiles": [
     "pwad 272/Feb 22 - prop.md",
     "To-Do.md",
