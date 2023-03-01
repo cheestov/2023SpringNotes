@@ -1,0 +1,12 @@
+# Movie:
+- set in the 30's I think and follows a Ukranian boy who was born before Lenin took over
+- they believed that the bolshevik revolution would mean an age of freedom for Ukraine, but as it goes, their freedom is brief before the soviets invade again
+- When stalin takes power they decide to collectivise Ukraine, russia needs its grain and mineral wealth to survive
+- they say they will implement the plan with no mercy
+- the movie is far too heroic at this point, there was never a chance for the Ukranians
+- very bright and colourful but it may be about showing how beautiful Ukraine is
+- from the preist: the soviets are already living in hell
+- Stalin knew he was committing a genocide
+- the party hides the famine, even Ukranians in Kiev are tricked by this lie. this is the false reality that the western reporters are allowed to see
+- all colour is gone in Ukraine because they are so sad
+- "great hopes for our future"
