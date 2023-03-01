@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f896edf66b39c914",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "027cb56cde9d2aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c6cba079dd9393c3",
         "type": "tabs",
         "children": [
@@ -31,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "March 02 - Bitter harvest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e3c6d156efbb452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feb 28 - Non combatant immunity.md",
+                "file": "pwad 465/March 02 - Bitter harvest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5fd2e229a2f98ec9",
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-01.md",
+                "file": "pwad 465/March 02 - Bitter harvest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-01.md",
+                "file": "pwad 465/March 02 - Bitter harvest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-01.md"
+                "file": "pwad 465/March 02 - Bitter harvest.md"
               }
             }
           },
@@ -186,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "027cb56cde9d2aa7",
+  "active": "dd73aad2adaec5e6",
   "lastOpenFiles": [
-    "March 02 - Bitter harvest.md",
     "2023-03-01.md",
-    "Feb 28 - Non combatant immunity.md",
+    "pwad 272/Feb 28 - Non combatant immunity.md",
+    "pwad 465/March 02 - Bitter harvest.md",
     "To-Do.md",
     "pwad 235/Feb 28 - religious in modern cinema.jpg",
     "pwad 272/FEB 8 - humanitarian intervention.md",
