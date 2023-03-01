@@ -14,7 +14,7 @@ Monday 2/27:
 Tuesday 2/28:
 - [ ] Pwad 272: write as much of paper as humanly possible⏫
 - [ ] Emails:
-	- [ ] email back sports programming, tell them I did the appointment and can work and that I have first aid still
+	- [x] email back sports programming, tell them I did the appointment and can work and that I have first aid still ✅ 2023-02-28
 	- [ ] figure out the training thing and if I wont be there
 	- [ ] email nenos about interveiw times. wednesday other than class, friday other than class. or next week at the same times. 
 	- [ ] do the spectrum test
