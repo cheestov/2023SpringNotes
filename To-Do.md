@@ -3,7 +3,11 @@ Sunday 2/26:
 - [x] Do Dishes ⏫ ✅ 2023-02-27
 - [x] Try to finish coding project as much as you can ⏫ ✅ 2023-02-27
 - [ ] clean room⏫ 
+<<<<<<< HEAD
+- [x] Pwad 465: impression on put in speech and something else 
+=======
 - [x] Pwad 465: impression on put in speech and something else ✅ 2023-02-27
+>>>>>>> ef381de6beade08c331a1540cb76ad2882a67cdd
 Monday 2/27:
  - [x] Asia 235: Read "negotiating judaism" chyutin, in israeli cinema pp201-212 ⏫ ✅ 2023-02-27
  - [x] Asia 235: watch Myfather. My lord ⏫ ✅ 2023-02-27
