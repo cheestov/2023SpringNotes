@@ -18,8 +18,8 @@ Tuesday 2/28:
 	- [ ] figure out the training thing and if I wont be there
 	- [ ] email nenos about interveiw times. wednesday other than class, friday other than class. or next week at the same times. 
 	- [ ] do the spectrum test
-	- [ ] text madeliene about technical interveiws
-	- [ ] TEST RACHEL
+	- [x] text madeliene about technical interveiws ✅ 2023-03-01
+	- [x] TEST RACHEL ✅ 2023-03-01
 	- [ ] text dad about rent money for january and for merill lynch account
 	- [ ] VIDEO INTERVEIW FOR SAS
 	- [ ] practice leet code?
