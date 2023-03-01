@@ -16,11 +16,11 @@ Tuesday 2/28:
 - [ ] Emails:
 	- [x] email back sports programming, tell them I did the appointment and can work and that I have first aid still ✅ 2023-02-28
 	- [ ] figure out the training thing and if I wont be there
-	- [ ] email nenos about interveiw times. wednesday other than class, friday other than class. or next week at the same times. 
+	- [x] email nenos about interveiw times. wednesday other than class, friday other than class. or next week at the same times. ✅ 2023-03-01
 	- [ ] do the spectrum test
 	- [x] text madeliene about technical interveiws ✅ 2023-03-01
 	- [x] TEST RACHEL ✅ 2023-03-01
-	- [ ] text dad about rent money for january and for merill lynch account
+	- [x] text dad about rent money for january and for merill lynch account ✅ 2023-03-01
 	- [ ] VIDEO INTERVEIW FOR SAS
 	- [ ] practice leet code?
 Wednesday 3/01:
