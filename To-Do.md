@@ -30,6 +30,7 @@ Wednesday 3/01:
 - [ ] Pwad 272: do mcmahan reading from lecture
 - [x] Files&databses: do whatever the shit is ✅ 2023-03-01
 - [ ] also watch lecture from tuesday for files and databasese ugh
+- [ ] PWAD 465: Watch holodomor movie and impression
 Thursday 3/02:
 Friday 3/03:
 Saturday 3/04:
