@@ -28,7 +28,7 @@ Wednesday 3/01:
 - [ ] Asia 235: watch Turn left at the end of the world
 - [ ] Pwad 272: Write as much of paper as humanly possible Cat, you haveto finish it today. 
 - [ ] Pwad 272: do mcmahan reading from lecture
-- [ ] Files&databses: do whatever the shit is
+- [x] Files&databses: do whatever the shit is ✅ 2023-03-01
 - [ ] also watch lecture from tuesday for files and databasese ugh
 Thursday 3/02:
 Friday 3/03:
