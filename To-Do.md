@@ -3,11 +3,7 @@ Sunday 2/26:
 - [x] Do Dishes ⏫ ✅ 2023-02-27
 - [x] Try to finish coding project as much as you can ⏫ ✅ 2023-02-27
 - [ ] clean room⏫ 
-<<<<<<< HEAD
-- [x] Pwad 465: impression on put in speech and something else 
-=======
 - [x] Pwad 465: impression on put in speech and something else ✅ 2023-02-27
->>>>>>> ef381de6beade08c331a1540cb76ad2882a67cdd
 Monday 2/27:
  - [x] Asia 235: Read "negotiating judaism" chyutin, in israeli cinema pp201-212 ⏫ ✅ 2023-02-27
  - [x] Asia 235: watch Myfather. My lord ⏫ ✅ 2023-02-27
@@ -24,6 +20,7 @@ Tuesday 2/28:
 	- [ ] do the spectrum test
 	- [ ] text madeliene about technical interveiws
 	- [ ] TEST RACHEL
+	- [ ] text dad about rent money for january and for merill lynch account
 	- [ ] VIDEO INTERVEIW FOR SAS
 	- [ ] practice leet code?
 Wednesday 3/01:
@@ -32,6 +29,7 @@ Wednesday 3/01:
 - [ ] Pwad 272: Write as much of paper as humanly possible Cat, you haveto finish it today. 
 - [ ] Pwad 272: do mcmahan reading from lecture
 - [ ] Files&databses: do whatever the shit is
+- [ ] also watch lecture from tuesday for files and databasese ugh
 Thursday 3/02:
 Friday 3/03:
 Saturday 3/04:
