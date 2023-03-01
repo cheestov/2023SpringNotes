@@ -12,7 +12,16 @@ Monday 2/27:
  - [x] Files&Databases: watch 2-23-2023 zoom recording ✅ 2023-02-27
  - [x] Files&databasesL read chapter 8 an do chapter 8 quiz ✅ 2023-02-27
 Tuesday 2/28:
-- [ ] Pwad 272: write as much of paper as humanly possible⏫ 
+- [ ] Pwad 272: write as much of paper as humanly possible⏫
+- [ ] Emails:
+	- [ ] email back sports programming, tell them I did the appointment and can work and that I have first aid still
+	- [ ] figure out the training thing and if I wont be there
+	- [ ] email nenos about interveiw times. wednesday other than class, friday other than class. or next week at the same times. 
+	- [ ] do the spectrum test
+	- [ ] text madeliene about technical interveiws
+	- [ ] TEST RACHEL
+	- [ ] VIDEO INTERVEIW FOR SAS
+	- [ ] practice leet code?
 Wednesday 3/01:
 - [ ] Asia 235: Read trajectories of mizzrahi cinema" shemer in israeli cinema pp 120-133⏫ 
 - [ ] Asia 235: watch Turn left at the end of the world
