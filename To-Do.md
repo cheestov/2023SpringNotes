@@ -24,8 +24,8 @@ Tuesday 2/28:
 	- [ ] VIDEO INTERVEIW FOR SAS
 	- [x] practice leet code? ✅ 2023-03-01
 Wednesday 3/01:
-- [ ] Asia 235: Read trajectories of mizzrahi cinema" shemer in israeli cinema pp 120-133⏫ 
-- [ ] Asia 235: watch Turn left at the end of the world
+- [x] Asia 235: Read trajectories of mizzrahi cinema" shemer in israeli cinema pp 120-133 ⏫ ✅ 2023-03-01
+- [x] Asia 235: watch Turn left at the end of the world ✅ 2023-03-01
 - [ ] Pwad 272: Write as much of paper as humanly possible Cat, you haveto finish it today. 
 - [ ] Pwad 272: do mcmahan reading from lecture
 - [x] Files&databses: do whatever the shit is ✅ 2023-03-01
