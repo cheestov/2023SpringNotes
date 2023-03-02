@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38de9c9e16614ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do.md",
+                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do.md",
+                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do.md"
+                "file": "pwad 272/Feb 28 - Non combatant immunity.md"
               }
             }
           },
@@ -154,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d059726baa30934f",
+  "active": "38de9c9e16614ea2",
   "lastOpenFiles": [
     "pwad 465/March 02 - Bitter harvest.md",
     "2023-03-01.md",

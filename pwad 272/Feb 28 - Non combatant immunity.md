@@ -30,11 +30,11 @@ non-combatant immunity
 - Civilians
 	- there are Many Civilians who are caught in the war effort. Cooks, factory workers, scientist, etc.
 	- does this make them legitimate war targets ?
-	- terror on civilians is not included in this, for example : the bombing in Ukraine or the Nopalm bombing in Tokyo
+	- terror on civilians is not included in this, for example : the bombing in Ukraine or the Napalm bombing in Tokyo
 
 Doctrine of double effect:
 - You should not intend on killing many civilians
-1. the act itself must be morally good or atleast in different
+1. the act itself must be morally good or atleast in different, it is a legitimate act of war
 2. the direct effect is morally acceptable
 3. the intention of the actor is good, his aim is only the acceptable end
 4. the good effect must be sufficiently good tto outweigh whatever bad effect
