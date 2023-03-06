@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c6cba079dd9393c3",
+        "id": "f896edf66b39c914",
         "type": "tabs",
         "children": [
           {
-            "id": "d059726baa30934f",
+            "id": "d17e2298959ef95d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38de9c9e16614ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
+                "file": "pwad 272/FEB 8 - humanitarian intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwad 272/Feb 28 - Non combatant immunity.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwad 272/Feb 28 - Non combatant immunity.md"
+                "file": "To-Do.md"
               }
             }
           },
@@ -159,33 +146,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "38de9c9e16614ea2",
+  "active": "d17e2298959ef95d",
   "lastOpenFiles": [
-    "pwad 465/March 02 - Bitter harvest.md",
-    "2023-03-01.md",
-    "pwad 272/Feb 28 - Non combatant immunity.md",
-    "To-Do.md",
-    "pwad 235/Feb 28 - religious in modern cinema.jpg",
-    "pwad 272/FEB 8 - humanitarian intervention.md",
-    "Comp 421/Raghu Ramakrishnan, Johannes Gehrke - Database Management Systems-McGraw-Hill Science_Engineering_Math (2003).pdf",
-    "conflict-files-obsidian-git.md",
-    "pwad 235/Feb 28 - my father my lord.md",
-    "Comp 421/Feb 23 - Application programming.md",
-    "pwad 272/Feb 22 - prop.md",
     "pwad 272/Feb 20 - Jus ad Vim.md",
-    "pwad 272/Feb 6 - something _230206_141401.jpg",
-    "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
-    "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
-    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
+    "pwad 272/Feb 22 - prop.md",
     "pwad 272/Jan 18 - rules of war_230118_141459.jpg",
+    "pwad 272/Jan 23 -  McMahan vs walzer_230123_140159.jpg",
+    "pwad 272/Jan 25 - soldiers of conscious and pacifism_230125_141054.jpg",
+    "pwad 272/FEB 8 - humanitarian intervention.md",
+    "pwad 272/Feb 1 - law and order in international society _230208_141609.jpg",
+    "pwad 272/Feb 6 - something _230206_141401.jpg",
+    "To-Do.md",
+    "pwad 465/March 02 - Bitter harvest.md",
+    "pwad 272/Feb 28 - Non combatant immunity.md",
+    "pwad 235/Feb 28 - religious in modern cinema.jpg",
+    "Comp 421/Feb 23 - Application programming.md",
+    "pwad 235/Feb 28 - my father my lord.md",
+    "Comp 421/Raghu Ramakrishnan, Johannes Gehrke - Database Management Systems-McGraw-Hill Science_Engineering_Math (2003).pdf",
     "pwad 235/Feb 21 - Waltz with Bashir.md"
   ]
 }
